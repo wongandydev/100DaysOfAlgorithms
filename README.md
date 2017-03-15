@@ -1,10 +1,11 @@
-#100 Days Of Algorithms
+# 100 Days Of Algorithms
+------
+## This is my attempt at 100 days of Algorithms.
 
-##This is my attempt at 100 days of Algorithms.
-
-Start Date: March 13th, 2017
+<b><i>Start Date: March 13th, 2017</b></i>
 
 ###Log:
+------
+<b>Day 0: March 13, 2017</b>
 
-####1) Day One: 1_simpleSum.java
-A simple program that takes the sum based on user input, 0 will stop it from adding numbers.
+1. [1_simpleSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/1_simpleSum.java): A simple program that takes the sum based on user input, 0 will stop it from adding numbers.
