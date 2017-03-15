@@ -13,3 +13,4 @@
 <b>Day 1: March 14, 2017</b>
 
 1. [2_solveMeFirst](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/2_solveMeFirst.java): A simple program that takes two integers and returns a sum.
+2. [3_compareTheTriplets](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/3_compareTheTriplets.java): Takes six integers from users, compares them in a point system to see who has more points.
