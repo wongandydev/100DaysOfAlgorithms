@@ -17,4 +17,5 @@
 
 <b>Day 2: March 15, 2017</b>
 
-1. [4_AVeryLargeSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/4_AVeryLargeSum.java): Take Two inputs, first being the array size, second being the values, values should be larger than 10 digits. 
+1. [4_aVeryLargeSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/4_aVeryLargeSum.java): Take Two inputs, first being the array size, second being the values, values should be larger than 10 digits. 
+2. [5_diagonalDifference](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/5_diagonalDifference.java): Given a square matrix of size <i>N</i> calculate the absolute difference between the sums of its diagonals.

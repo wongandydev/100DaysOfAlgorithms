@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AVeryBigSum {
+public class aVeryBigSum {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
