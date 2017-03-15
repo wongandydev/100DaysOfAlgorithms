@@ -1,10 +1,10 @@
 # 100 Days Of Algorithms
-------
+
 ## This is my attempt at 100 days of Algorithms.
 
 <b><i>Start Date: March 13th, 2017</b></i>
 
-###Log:
+### Log:
 ------
 <b>Day 0: March 13, 2017</b>
 
