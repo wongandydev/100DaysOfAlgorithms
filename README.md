@@ -14,3 +14,7 @@
 
 1. [2_solveMeFirst](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/2_solveMeFirst.java): A simple program that takes two integers and returns a sum.
 2. [3_compareTheTriplets](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/3_compareTheTriplets.java): Takes six integers from users, compares them in a point system to see who has more points.
+
+<b>Day 2: March 15, 2017</b>
+
+1. [4_AVeryLargeSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/4_AVeryLargeSum.java): Take Two inputs, first being the array size, second being the values, values should be larger than 10 digits. 
