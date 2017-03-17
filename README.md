@@ -23,3 +23,4 @@
 <b> Day 3: March 16, 2016 </b>
 
 1. [6_PlusMinus](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/6_PlusMinus.java): Given an array of integers, calculate which fraction of its elements are positive, negative, and zeroes, respectively. Print the decimal value of each fraction on a new line, only up to six digits after decimal acceptable
+2. [7_Staircase](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/7_Staircase.java): Observe that its base and height are both equal to <i>N</i> and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces.

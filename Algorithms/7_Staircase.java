@@ -1,20 +1,21 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class Staircase{
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        int count = 0;
         
-        for (int i = 0; i < n; i++){
-            while(count != n -1){
+        for (int a = 1; a <= n; a++)//Layout
+        {
+            for (int b = n - a; b > 0; b--)
+            {
                 System.out.print(" ");
-                count++;
             }
-            System.out.print("#");
-            System.out.print("\n");
+            for (int c = 1; c <= a; c++){
+                System.out.print("#");
+            }
+            System.out.println();
         }
-        
     }
 }
