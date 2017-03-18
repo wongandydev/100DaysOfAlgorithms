@@ -20,7 +20,7 @@
 1. [4_aVeryBigSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/4_aVeryBigSum.java): Take Two inputs, first being the array size, second being the values, values should be larger than 10 digits. 
 2. [5_diagonalDifference](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/5_diagonalDifference.java): Given a square matrix of size <i>N</i> calculate the absolute difference between the sums of its diagonals.
 
-<b> Day 3: March 16, 2016 </b>
+<b> Day 3: March 16 ,2017 </b>
 
 1. [6_PlusMinus](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/6_PlusMinus.java): Given an array of integers, calculate which fraction of its elements are positive, negative, and zeroes, respectively. Print the decimal value of each fraction on a new line, only up to six digits after decimal acceptable
 2. [7_Staircase](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/7_Staircase.java): Observe that its base and height are both equal to <i>N</i> and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces.
