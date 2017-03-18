@@ -24,3 +24,7 @@
 
 1. [6_PlusMinus](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/6_PlusMinus.java): Given an array of integers, calculate which fraction of its elements are positive, negative, and zeroes, respectively. Print the decimal value of each fraction on a new line, only up to six digits after decimal acceptable
 2. [7_Staircase](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/7_Staircase.java): Observe that its base and height are both equal to <i>N</i> and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces.
+
+<b> Day 4: March 17 ,2017</b>
+
+1. [8_MiniMaxSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/8_MiniMaxSum.java): Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. 
