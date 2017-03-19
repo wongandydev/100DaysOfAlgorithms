@@ -28,3 +28,7 @@
 <b>Day 4: March 17 ,2017</b>
 
 1. [8_MiniMaxSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/8_MiniMaxSum.java): Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. 
+
+<b>Day 5: March 18, 2017</b>
+
+1. [9_TimeConversion](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/9_TimeConversion.java): Convert AM/PM time to military time.
