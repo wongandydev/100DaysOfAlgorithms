@@ -37,3 +37,6 @@
 
 1. [10_ExtraLongFactorials](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/10_ExtraLongFactorials.java): You are given an integer <i>N</i> Print the factorial of this number.
 
+<b>Day 7: March 20, 2017</b>
+
+1. [11_AppendAndDelete](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/11_AppendAndDelete.java): Given two strings and <i>K</i> --> Number of Operations. You can do two operations Append or Delete a character. See if you can convert string s to string t with those the given number of operations and using only Append and Delete.
