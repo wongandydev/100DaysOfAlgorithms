@@ -32,3 +32,8 @@
 <b>Day 5: March 18, 2017</b>
 
 1. [9_TimeConversion](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/9_TimeConversion.java): Convert AM/PM time to military time.
+
+<b>Day 6: March 19, 2017</b>
+
+1. [10_ExtraLongFactorials](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/10_ExtraLongFactorials.java): You are given an integer <i>N</i> Print the factorial of this number.
+
