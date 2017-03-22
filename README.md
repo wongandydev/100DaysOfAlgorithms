@@ -40,3 +40,7 @@
 <b>Day 7: March 20, 2017</b>
 
 1. [11_AppendAndDelete](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/11_AppendAndDelete.java): Given two strings and <i>K</i> --> Number of Operations. You can do two operations Append or Delete a character. See if you can convert string s to string t with those the given number of operations and using only Append and Delete.
+
+<b>Day 8: March 21, 2017</b>
+
+1. [12_SherlockAndSquares](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/12_SherlockAndSquares.java): Given an integer, which is the number of test cases then two integers <i>A</i> and <i>B</i> , find the number of square roots in the range of <i>A</i> and <i>B</i>
