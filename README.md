@@ -44,3 +44,11 @@
 <b>Day 8: March 21, 2017</b>
 
 1. [12_SherlockAndSquares](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/12_SherlockAndSquares.java): Given an integer, which is the number of test cases then two integers <i>A</i> and <i>B</i> , find the number of square roots in the range of <i>A</i> and <i>B</i>
+
+<b>Day 9: March 22, 2017</b>
+
+1. [13_LibraryFine](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/13_LibraryFine.java): Calculate fine with given conditions:
+	1. If the book is returned on or before the expected return date, no fine will be charged
+	2. If the book is returned after the expected return day but still within the same calendar month and year as the expected return date 15 x number of days late
+	3. If the book is returned after the expected return month but still within the same calendar year as the expected return date, the 500 x number of months later
+	4. If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000 
