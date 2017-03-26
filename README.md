@@ -52,3 +52,9 @@
 	2. If the book is returned after the expected return day but still within the same calendar month and year as the expected return date 15 x number of days late
 	3. If the book is returned after the expected return month but still within the same calendar year as the expected return date, the 500 x number of months later
 	4. If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000 
+
+**Day 10: March 23, 2017**
+
+1. [14_CutTheSticks](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/14_CutTheSticks.java):
+
+You are given **N** sticks, where the *length* of each stick is a positive integer. A cut operation is performed on the sticks such that all of them are reduced by the length of the smallest stick.
