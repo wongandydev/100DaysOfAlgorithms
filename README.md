@@ -58,3 +58,32 @@
 1. [14_CutTheSticks](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/14_CutTheSticks.java):
 
 You are given **N** sticks, where the *length* of each stick is a positive integer. A cut operation is performed on the sticks such that all of them are reduced by the length of the smallest stick.
+
+
+**Day 11: March 24, 2017**
+
+1. [15_GradingChallenge](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/15_GradingChallenge.java): 
+
+HackerLand University has the following grading policy:
+
+* Every student receives a *grade* in the inclusive range from **0** to **100**
+* Any *grade* less than **40** is a failing grade.
+
+Sam is a professor at the university and likes to round each student's *grade* according to these rules:
+
+* If the difference between the *grade* and the next multiple of **5** is less than **3**, round *grade* up to the next multiple of **5**
+* If the value of *grade* is less than **38**, no rounding occurs as the result will still be a failing grade.
+
+For example, *grade* = **84** will be rounded to 85 but *grade* = 29 will not be rounded because the rounding would result in a number that is less than **40**
+
+Given the initial value of *grade* for each of Sam's  students, write code to automate the rounding process. For each , round it according to the rules above and print the result on a new line.
+
+**Day 12: March 25, 2017**
+
+1. [16_SuperReducedString](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/16_SuperReducedString.java):
+
+Steve has a string,*s*, consisting of *n* lowercase English alphabetic letters. In one operation, he can delete any *pair* of *adjacent letters* with same value. For example, string `"aabcc"` would become either `"aab"` or `"bcc"` after **1** operation.
+
+Steve wants to reduce *s* as much as possible. To do this, he will repeat the above operation as many times as it can be performed. Help Steve out by finding and printing s's non-reducible form!
+
+**Note:** If the final string is empty, print `Empty String`. 
