@@ -1,7 +1,8 @@
 # 100 Days Of Algorithms
 
 
-### This is my attempt at 100 days of Algorithms
+###This is my attempt at 100 days of Algorithms 
+Note: While doing this challenge, my goal is to learn another program langauge such as C and write algorithms using that new language instead. My goal is to switch the syntax every 20 - 25 days of algorithms. #challengeWithATwist
 
 #### Start Date: March 13th, 2017
 
