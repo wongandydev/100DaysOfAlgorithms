@@ -14,6 +14,17 @@ public class Encryption
         int count = 0;
         char[] arr = beforeEncrypt.toCharArray();
         
+        for(int a = 0; a < ceilNum; a++)
+        {
+            int b = a;
+            while (b < beforeEncrypt.length())
+            {
+                System.out.print(arr[b]);
+                b += ceilNum;
+                count++;
+            }
+            System.out.print(" ");
+        }
         
         
     }
