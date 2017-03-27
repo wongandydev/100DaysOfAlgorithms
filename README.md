@@ -89,3 +89,9 @@ Steve has a string,*s*, consisting of *n* lowercase English alphabetic letters. 
 Steve wants to reduce *s* as much as possible. To do this, he will repeat the above operation as many times as it can be performed. Help Steve out by finding and printing s's non-reducible form!
 
 **Note:** If the final string is empty, print `Empty String`. 
+
+**Day 13: March 26, 2017**
+
+1. [17_Encryption.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/17_Encryption.java):
+
+![](promptScreenshots/day13Prompt.png?raw=true)
