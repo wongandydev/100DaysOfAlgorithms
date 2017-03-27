@@ -55,14 +55,14 @@ Note: While doing this challenge, my goal is to learn another program langauge s
 	3. If the book is returned after the expected return month but still within the same calendar year as the expected return date, the 500 x number of months later
 	4. If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000 
 
-**Day 10: March 23, 2017**
+**Day 10: March 23, 2017***
 
 1. [14_CutTheSticks](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/14_CutTheSticks.java):
 
 You are given **N** sticks, where the *length* of each stick is a positive integer. A cut operation is performed on the sticks such that all of them are reduced by the length of the smallest stick.
 
 
-**Day 11: March 24, 2017**
+**Day 11: March 24, 2017***
 
 1. [15_GradingChallenge](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/15_GradingChallenge.java): 
 
@@ -80,7 +80,7 @@ For example, *grade* = **84** will be rounded to 85 but *grade* = 29 will not be
 
 Given the initial value of *grade* for each of Sam's  students, write code to automate the rounding process. For each , round it according to the rules above and print the result on a new line.
 
-**Day 12: March 25, 2017**
+**Day 12: March 25, 2017***
 
 1. [16_SuperReducedString](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/16_SuperReducedString.java):
 
