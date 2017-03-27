@@ -15,21 +15,19 @@ public class LibraryFine {
         
         int fine = 0;
         
-        if(d1 == d2 && m1 == m2 && y1 == y2) //CASE 1: If returned day of
+        if(y1 > y2)
         {
-            fine = 0;
-        }
-        else if ( d1 != d2 && m1 == m2 && y1 == y2)
-        {
-            fine = 15 * (d1 - d2);
-        }
-        else if(m1 != m2 && y1 == y2){
-            fine = 500 * (m1 - m2);
-        }
-        else if(y1 != y2){
             fine = 10000;
         }
-        
+        else if(m1 > m2 && y1 == y2){
+            fine = 500 * (m1 - m2);
+        }
+        else if (d1 > d2 && m1 == m2 && y1 == y2){
+            fine = 15 * (d1 - d2);
+        }
+        else{
+            fine = 0;
+        }
         System.out.println(fine);
     }
 }
