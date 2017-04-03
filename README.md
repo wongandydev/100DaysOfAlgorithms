@@ -101,7 +101,8 @@ Steve wants to reduce *s* as much as possible. To do this, he will repeat the ab
 1. [18_MarsExploration.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/18_MarsExploration.java): Letters in some SOS messages are altered by cosmic radiation during transmission. Given the signal received by Earth as a string, *S* , determine how many letters of SOS have been changed by radiation.
 
 **Day 15: March 28, 2017***
-HackerrankInAString
+
+1. [19_HackerrankInAString.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/19_HackerrankInAString.java): Given a string, print `YES` if the string contains 'hackerrank', else print `NO`.
 
 **Day 16: March 29. 2017***
 Pangrams
