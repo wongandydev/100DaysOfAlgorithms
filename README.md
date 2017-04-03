@@ -95,3 +95,25 @@ Steve wants to reduce *s* as much as possible. To do this, he will repeat the ab
 1. [17_Encryption.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/17_Encryption.java):
 
 ![](promptScreenshots/day13Prompt.png?raw=true)
+
+**Day 14: March 27, 2017***
+
+1. [18_MarsExploration.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/18_MarsExploration.java): Letters in some SOS messages are altered by cosmic radiation during transmission. Given the signal received by Earth as a string, *S* , determine how many letters of SOS have been changed by radiation.
+
+**Day 15: March 28, 2017***
+HackerrankInAString
+
+**Day 16: March 29. 2017***
+Pangrams
+
+**Day --: March 30,2017***
+Midterm Studying, did not do daily algorithm due to studying. 
+
+**Day 17: March 31, 2017***
+WeightedUniformString
+
+**Day 18: April 1, 2017**
+Funny String
+
+**Day 19: April 2, 2017***
+Gemstone
