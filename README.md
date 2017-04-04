@@ -119,3 +119,7 @@ Funny String
 
 **Day 19: April 2, 2017***
 Gemstone
+
+**Day 20: April 3, 2017**
+
+1. [20_AlternatingCharacters.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/20_AlternatingCharacters.java): Given a string, find out the number of deletions required to make the letters in the string consecutive.
