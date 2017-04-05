@@ -8,6 +8,7 @@ Note: While doing this challenge, my goal is to learn another program langauge s
 
 ### Log:
 - - - - 
+### *Java*
 **Day 0: March 13, 2017**
 
 1. [1_simpleSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/1_simpleSum.java): A simple program that takes the sum based on user input, 0 will stop it from adding numbers.
@@ -123,3 +124,9 @@ Gemstone
 **Day 20: April 3, 2017**
 
 1. [20_AlternatingCharacters.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/20_AlternatingCharacters.java): Given a string, find out the number of deletions required to make the letters in the string consecutive.
+
+### *Python*
+
+**Day 31: April 4, 2017**
+
+1.[21_BeautifulBinary.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/21_BeautifulBinary.py): Given a binary string, you need to make it to a beautiful string. To be considered a beautiful, you cannot have `010`. You are allowed to switch the 0s and 1s to make it a beautiful string. Find the minimum steps it would take to do so.  
