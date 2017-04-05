@@ -107,7 +107,7 @@ Steve wants to reduce *s* as much as possible. To do this, he will repeat the ab
 
 **Day 16: March 29. 2017***
 
-1.[20_Pangrams.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/20_Pangrams.java): Given a sentence, check if it is a Pangram (using every letter in the alphabet). If it does, print `pangram` else print `not pangram`.
+1. [20_Pangrams.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/20_Pangrams.java): Given a sentence, check if it is a Pangram (using every letter in the alphabet). If it does, print `pangram` else print `not pangram`.
 
 **Day --: March 30,2017***
 Midterm Studying, did not do daily algorithm due to studying. 
