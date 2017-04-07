@@ -130,3 +130,9 @@ Gemstone
 **Day 21: April 4, 2017***
 
 1. [25_BeautifulBinary.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/25_BeautifulBinary.py): Given a binary string, you need to make it to a beautiful string. To be considered a beautiful, you cannot have `010`. You are allowed to switch the 0s and 1s to make it a beautiful string. Find the minimum steps it would take to do so.  
+
+**Day 22: April 5, 2017***
+Breaking the Record 
+
+**Day 23: April 6, 2017***
+BirthdayChocolate
