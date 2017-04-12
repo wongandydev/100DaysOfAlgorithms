@@ -13,6 +13,8 @@ print(len(max(bin(int(raw_input().strip()))[2:].split('0'))))
    largest val of consecutive 1s.
 '''
 
+#Note result will have a '' in list as well. But luckily we looking for max consectuive ones 
+
 ''' There is a better solution...
 input = int(raw_input().strip())
 binary = bin(input).split("0")
