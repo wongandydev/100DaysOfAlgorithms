@@ -136,3 +136,34 @@ Breaking the Record
 
 **Day 23: April 6, 2017***
 BirthdayChocolate
+
+**Day 24: April 7, 2017***
+DivisibleSumPairs
+
+**Day --: April 8, 2017**
+
+**Day --: April 9, 2017**
+
+**Day 25: April 10, 2017***
+SeperateTheNumbers
+
+**Day 26: April 11, 2017***
+Binary Numbers (30 Days of Code)
+
+**Day --: April 12, 2017**
+
+**Day --: April 13, 2017**
+
+**Day --: April 14, 2017**
+
+**Day --: April 15, 2017**
+
+**Day --: April 16, 2017**
+
+**Day --: April 17, 2017**
+
+**Day 27: April 18, 2017**
+
+1. [31_2DArray.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/31_2DArray.py): 
+
+![](promptScreenshots/day27Prompt.png)
