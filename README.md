@@ -168,6 +168,6 @@ Binary Numbers (30 Days of Code)
 
 ![](promptScreenshots/day27Prompt.png)
 
-**Day 28: April 19, 2017**: Given an input of number of candles and an array of candles. Return the number of candles a child can blow if she can only blow the tallest ones.
+**Day 28: April 19, 2017**
 
-1. [32_BirthdayCakeCandles.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/32_BirthdayCakeCandles.py)
+1. [32_BirthdayCakeCandles.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/32_BirthdayCakeCandles.py): Given an input of number of candles and an array of candles. Return the number of candles a child can blow if she can only blow the tallest ones.
