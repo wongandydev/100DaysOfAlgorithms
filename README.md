@@ -175,3 +175,9 @@ Binary Numbers (30 Days of Code)
 **Day 29: April 20, 2017**
 
 1. [33_Inheritance.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/33_Inheritance.py): Given two class, *Person* and *Student*, *Person* is the base class and *Student* is the derived class. Student inherits all properties of Person. Return the char grade with a calculate method. 
+
+**Day 30: April 21, 2017**
+
+1. [34_AbstractClasses.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/34_AbstractClasses.py): 
+
+![](promptScreenshots/day30Prompt.png)
