@@ -21,11 +21,11 @@ for word in words:
         for i in range(length):
             sum = 0
             check = str("")
-            if(i != length -1): #Make sure ware not testing at 0 when we do substring 
+            if(i != length -1): #Make sure we are not testing at 1 when we do substring 
                 isBeauty = False
-                temp = word[:i]
+                temp = word[:i] #substring 0 - i 
                 if not(len(temp) * 2 > len(word)) and not(len(temp) == 0):
-                    code = int(float(temp))
+                    code = int(float(temp)) #str --> INT 
                     sum = code
                     
                     while len(check) < len(str):
