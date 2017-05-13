@@ -12,7 +12,3 @@ for i in range(1, size): #Starts at 1 so that we can compare everything using J 
         Arr[j-1] = temp
         j -= 1
     print(*Arr)
-
-
-
-
