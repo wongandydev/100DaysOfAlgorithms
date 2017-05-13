@@ -132,6 +132,8 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 1. [24_AlternatingCharacters.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/24_AlternatingCharacters.java): Given a string, find out the number of deletions required to make the letters in the string consecutive.
 
+-----
+
 ### *Python*
 
 **Day 21: April 4, 2017***
