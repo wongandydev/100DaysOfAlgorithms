@@ -113,13 +113,20 @@ Steve wants to reduce *s* as much as possible. To do this, he will repeat the ab
 Midterm Studying, did not do daily algorithm due to studying. 
 
 **Day 17: March 31, 2017***
-WeightedUniformString
+
+1. [21_WeightedUniformString.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/21_WeightedUniformString.java)
+
+![](promptScreenshots/day17Prompt.png)
 
 **Day 18: April 1, 2017**
-Funny String
 
-**Day 19: April 2, 2017***
-Gemstone
+1. [22_FunnyString.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/22_FunnyString.java)
+![](promptScreenshots/day18Prompt.png)
+
+**Day 19: April 2, 2017**
+
+1. [23_Gemstone.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/23_Gemstone.java)
+![](promptScreenshots/day19Prompt.png)
 
 **Day 20: April 3, 2017**
 
@@ -132,35 +139,33 @@ Gemstone
 1. [25_BeautifulBinary.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/25_BeautifulBinary.py): Given a binary string, you need to make it to a beautiful string. To be considered a beautiful, you cannot have `010`. You are allowed to switch the 0s and 1s to make it a beautiful string. Find the minimum steps it would take to do so.  
 
 **Day 22: April 5, 2017***
-Breaking the Record 
+
+1. [26_BreakingTheRecords.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/26_BreakingTheRecords.py)
+![](promptScreenshots/day22Prompt.png)
 
 **Day 23: April 6, 2017***
-BirthdayChocolate
+
+1. [27_BirthdayChocolate.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/27_BirthdayChocolate.py)
+![](promptScreenshots/day23Prompt.png)
 
 **Day 24: April 7, 2017***
-DivisibleSumPairs
 
-**Day --: April 8, 2017**
+1. [28_DivisibleSumPairs.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/28_DivisibleSumPairs.py)
+![](promptScreenshots/day24Prompt.png)
 
-**Day --: April 9, 2017**
+**Day --: April 8, 2017 --> April 9, 2017**
 
 **Day 25: April 10, 2017***
-SeperateTheNumbers
+
+1. [29_SeperateTheStrings.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/29_SeperateTheStrings.py)
 
 **Day 26: April 11, 2017***
-Binary Numbers (30 Days of Code)
 
-**Day --: April 12, 2017**
+1. [30_BinaryNumbers.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/30_BinaryNumbers.py)
 
-**Day --: April 13, 2017**
+![](promptScreenshots/day26Prompt.png)
 
-**Day --: April 14, 2017**
-
-**Day --: April 15, 2017**
-
-**Day --: April 16, 2017**
-
-**Day --: April 17, 2017**
+**Day --: April 12, 2017 --> April 17, 2017**: Working on Job Interviews and Coding Challenges 
 
 **Day 27: April 18, 2017**
 
@@ -181,3 +186,34 @@ Binary Numbers (30 Days of Code)
 1. [34_AbstractClasses.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/34_AbstractClasses.py): 
 
 ![](promptScreenshots/day30Prompt.png)
+
+**Day 31: April 22, 2017**
+
+1. [35_BigSorting.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/35_BigSorting.py):Consider an array of numeric strings, *unsorted* , where each string is a positive number with anywhere from 1 to 10^6 digits. Sort the array's elements in non-decreasing (i.e., ascending) order of their real-world integer values and print each element of the sorted array on a new line.
+
+**Day 32: April 23, 2017**
+
+1. [36_TheLoveLetterMystery.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/)
+![](promptScreenshots/day32Prompt.png)
+
+**Day --: April 24, 2017 --> April 27, 2017**
+
+**Day 33: April 28, 2017**
+
+1. [37_bon-appetit.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/37_bon-appetit.py): Given a list of ordered number, and an item that was not eaten. Calculate if the bill was seperated correctly. [Detailed Prompt Here](http://bit.ly/day33prompt)
+
+**Day --: April 29, 2017 --> May 7, 2017**: Working on prepartion of Finals, and Job Interviews + Coding Challenges 
+
+**Day 34: May 8, 2017**
+
+1. [38_Kangaroo.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/38_Kangaroo.py): There are two kangaroos on an x-axis ready to jump in the positive direction (i.e, toward positive infinity). The first kangaroo starts at location `X1` and moves at a rate of `V1` meters per jump. The second kangaroo starts at location `X2` and moves at a rate of  `V2` meters per jump. Given the starting locations and movement rates for each kangaroo, can you determine if they'll ever land at the same location at the same time?
+
+**Day --: May 9, 2017 --> May 11, 2017**: Finals at School.
+
+**Day 35: May 12, 2017**
+
+1. [39_InsertionSort1.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/39_InsertionSort1.py): Given`e`, the rightmost number in the list, insert it into the list. (`1,2,4,3` --> `1,2,3,4`)
+
+**Day 36: May 13, 2017**
+
+1. [40_InsertionSort2.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/40_InsertionSort2.py): Adding on to previous Insertion sort, now sort an unsorted list. (`2,4,3,1` --> `1,2,3,4`)
