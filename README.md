@@ -225,3 +225,8 @@ Midterm Studying, did not do daily algorithm due to studying.
 1. [41_DayOfTheProgrammer.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/41_DayOfTheProgrammer.py)
 
 ![](promptScreenshots/day37Prompt.png)
+
+**Day 38: May 15, 2017**
+
+1. [42_marcsCakeWalk.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/42_marcsCakeWalk.py)
+![](promptScreenshots/day38Prompt.png)
