@@ -219,3 +219,9 @@ Midterm Studying, did not do daily algorithm due to studying.
 **Day 36: May 13, 2017**
 
 1. [40_InsertionSort2.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/40_InsertionSort2.py): Adding on to previous Insertion sort, now sort an unsorted list. (`2,4,3,1` --> `1,2,3,4`)
+
+**Day 37: May 14, 2017**
+
+1. [41_DayOfTheProgrammer.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/41_DayOfTheProgrammer.py)
+
+![](promptScreenshots/day37Prompt.png)
