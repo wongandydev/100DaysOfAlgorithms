@@ -230,3 +230,8 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 1. [42_marcsCakeWalk.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/42_marcsCakeWalk.py)
 ![](promptScreenshots/day38Prompt.png)
+
+**Day 39: May 16, 2017**
+
+1. [43_IceCreamParlor.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/43_IceCreamParlor.py)
+![](promptScreenshots/day39Prompt.png)
