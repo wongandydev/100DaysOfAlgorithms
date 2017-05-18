@@ -235,3 +235,9 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 1. [43_IceCreamParlor.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/43_IceCreamParlor.py)
 ![](promptScreenshots/day39Prompt.png)
+
+**Day 40: May 17, 2017**
+
+1. [44_QuickSort.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/44_QuickSort.py): 
+
+![](promptScreenshots/day40Prompt.png)
