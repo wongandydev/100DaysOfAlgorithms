@@ -241,3 +241,12 @@ Midterm Studying, did not do daily algorithm due to studying.
 1. [44_QuickSort.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/44_QuickSort.py): 
 
 ![](promptScreenshots/day40Prompt.png)
+
+### *Javascript*
+
+**Day 41: May 18, 2017***
+
+1. [45_SockMerchant.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/45_SockMerchant.js): 
+
+![](promptScreenshots/day41Prompt.png)
+
