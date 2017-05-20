@@ -250,3 +250,8 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 ![](promptScreenshots/day41Prompt.png)
 
+**Day 42: May 19, 2017**
+
+1. [46_QuickSort2.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/46_QuickSort2.js): 
+
+![](promptScreenshots/day42Prompt.png)
