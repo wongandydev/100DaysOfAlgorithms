@@ -255,3 +255,9 @@ Midterm Studying, did not do daily algorithm due to studying.
 1. [46_QuickSort2.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/46_QuickSort2.js): 
 
 ![](promptScreenshots/day42Prompt.png)
+
+**Day 43: May 20. 2017***
+
+1. [47_DesignerPDFView.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/47_DesignerPDFView.js):
+
+![](promptScreenshots/day43Prompt.png)
