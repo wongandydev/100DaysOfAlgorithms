@@ -24,6 +24,7 @@ function main() {
     var n = parseInt(readLine());
     for(var a0 = 0; a0 < n; a0++){
         var s = readLine();
+        console.log(s.split('').filter(function(x,y){return y == s.lastIndexOf(x)}).length);
     }
     
 }
