@@ -261,3 +261,21 @@ Midterm Studying, did not do daily algorithm due to studying.
 1. [47_DesignerPDFView.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/47_DesignerPDFView.js):
 
 ![](promptScreenshots/day43Prompt.png)
+
+**Day 44: May 21, 2017***
+
+1. [48_StringConstruction.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/48_StringConstruction.js)
+
+![](promptScreenshots/day44Prompt.png)
+
+**Day 45: May 22, 2017***
+
+1. [49_MigratoryBirds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/49_MigratoryBirds.js)
+
+![](promptScreenshots/day45Prompt.png)
+
+**Day 46: May 23, 2017**
+
+1. [50_JumpingOnTheClouds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/50_JumpingOnTheClouds.js)
+
+![](promptScreenshots/day46Prompt.png)
