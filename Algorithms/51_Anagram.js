@@ -2,30 +2,44 @@ function processData(input) {
     size = input[0];
     arr = [];
     count = 0;
-    for (var i = 1; i <= size; i++){
+    
+    for (var i = 1; i <= size; i++){ //Add items from input to array 
         thishat = input.split('\n');
         arr.push(thishat[i]);
     }
     
     for (var j = 0; j < arr.length; j++){
-        count = 0;
-        if((arr[j].length % 2) != 0){
-            console.log('-1');
+        var letterArray = new Array(26);
+        for (var i = 0; i < 26; i++){ //Add 0's to letterArray for ASCII algorithm
+            letterArray[i] = 0;
         }
-        else {
-            s1 = arr[j].substring(0, (arr[j].length)/2);
-            s2 = arr[j].substring((arr[j].length)/2, (arr[j].length));
+        
+        count = 0; //Reset count
+        
+        if((arr[j].length % 2) == 0){
+             for (var i = 0; i < arr[j].length/2; i++){
+                var a = "a"
+                var aCode = a.charCodeAt(0);
+                letterArray[arr[j].charCodeAt(i) - aCode]++;
+            }
             
-            for(var i = 0; i < s1.length; i++) {
-                if(s2.includes(s1[i]) == true) {
-                    index = s2.indexOf(s1[i]);
-                    s2 = s2.substring(0, index) + s2.substring(index+1);
+            for (var i = arr[j].length/2; i < arr[j].length; i++){
+                if (letterArray[arr[j].charCodeAt(i) - aCode] > 0){
+                    letterArray[arr[j].charCodeAt(i) - aCode]--;
                 }
-           }
-            console.log(s2.length);
+            }
+            
+            for (var i = 0; i < 26; i++){
+                    count += letterArray[i]; 
+            }
+            console.log(count);
+        }
+        else{
+            console.log('-1');
         }
     }
 } 
+
 
 process.stdin.resume();
 process.stdin.setEncoding("ascii");
