@@ -279,3 +279,9 @@ Midterm Studying, did not do daily algorithm due to studying.
 1. [50_JumpingOnTheClouds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/50_JumpingOnTheClouds.js)
 
 ![](promptScreenshots/day46Prompt.png)
+
+**Day 47: May 24, 2017**
+
+1. [51_Anagram.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/51_Anagram.js) 
+
+# ![](promptScreenshots/day47Prompt.png)
