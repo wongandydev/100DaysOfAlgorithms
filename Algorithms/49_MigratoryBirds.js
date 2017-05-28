@@ -48,7 +48,7 @@ function main() {
                 arr[4][1] += 1; break;
         };
     };
-    arr.sort(function(a, b){ return b[1] - a[1]}); //Sort Array so the max is in the front and least at the end (Descending order)
+    arr.sort(function(a, b){ return b[1] - a[1]}); //Sort Array so the max is in the front and least at the end (Descending order)z
     console.log(arr[0][0]);
 };
     
