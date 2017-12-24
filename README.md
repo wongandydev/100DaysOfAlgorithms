@@ -258,35 +258,49 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 **Day 43: May 20. 2017***
 
-1. [47_DesignerPDFView.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/47_DesignerPDFView.js):
+1. [47_DesignerPDFView.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/47_DesignerPDFView.js):
 
 ![](promptScreenshots/day43Prompt.png)
 
 **Day 44: May 21, 2017***
 
-1. [48_StringConstruction.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/48_StringConstruction.js)
+1. [48_StringConstruction.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/48_StringConstruction.js)
 
 ![](promptScreenshots/day44Prompt.png)
 
 **Day 45: May 22, 2017***
 
-1. [49_MigratoryBirds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/49_MigratoryBirds.js)
+1. [49_MigratoryBirds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/49_MigratoryBirds.js)
 
 ![](promptScreenshots/day45Prompt.png)
 
 **Day 46: May 23, 2017**
 
-1. [50_JumpingOnTheClouds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/50_JumpingOnTheClouds.js)
+1. [50_JumpingOnTheClouds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/50_JumpingOnTheClouds.js)
 
 ![](promptScreenshots/day46Prompt.png)
 
 **Day 47: May 24, 2017**
 
-1. [51_Anagram.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/51_Anagram.js) 
+1. [51_Anagram.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/51_Anagram.js) 
 
 ![](promptScreenshots/day47Prompt.png)
 
-## PAUSED 
+**Day 48 - 51: May to June**
 
-This project is temporarily paused as I am trying to foc
+Algorithms 52 - 55. 
+
+1. [52_ImplementationTutorialIntro.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/52_ImplementationTutorialIntro.js) 
+2. [53_SeperateTheNumber.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/53_SeperateTheNumber.java) 
+3. [54_catsAndaMouse.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/54_catsAndaMouse.js) 
+4. [55_CountingValleys.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/55_CountingValleys.js)
+
+**Day 52: December 23, 2017**
+
+1. [56_CountingSort1.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/56_CountingSort1.py)
+
+
+![](promptScreenshots/day56Prompt.png)
+
+ 
 
