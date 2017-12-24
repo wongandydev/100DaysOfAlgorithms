@@ -284,4 +284,9 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 1. [51_Anagram.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/51_Anagram.js) 
 
-# ![](promptScreenshots/day47Prompt.png)
+![](promptScreenshots/day47Prompt.png)
+
+## PAUSED 
+
+This project is temporarily paused as I am trying to foc
+
