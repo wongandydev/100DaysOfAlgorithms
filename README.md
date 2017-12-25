@@ -302,5 +302,8 @@ Algorithms 52 - 55.
 
 ![](promptScreenshots/day56Prompt.png)
 
- 
+**Day 53: December 25, 2017**
 
+1. [57_apple_and_orange.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/57_apple_and_orange.py)
+
+![](promptScreenshots/day57Prompt.png)
