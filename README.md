@@ -466,3 +466,12 @@ Algorithms 52 - 55:
 1. [58_CountingSort2.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/58_CountingSort2.py): Given an unsorted list of integers, output the integers in order.
 
 </details>
+
+<details>
+<summary>**Day 55: March 30th, 2018**</summary>
+
+1. [59_GameOfThrones.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/59_GameOfThrones.py)
+
+![](promptScreenshots/day59Prompt.png)
+
+</details>
