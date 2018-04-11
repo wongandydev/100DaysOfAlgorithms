@@ -308,7 +308,11 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 </details>
 
-<b>Day --: April 29, 2017 --> May 7, 2017</b>: Working on prepartion of Finals, and Job Interviews + Coding Challenges 
+<details>
+<summary><b>Day --: April 29, 2017 --> May 7, 2017</b>:</summary>
+Working on prepartion of Finals, and Job Interviews + Coding Challenges 
+
+</details>
 
 <details>
 <summary><b>Day 34: May 8, 2017</b></summary>
@@ -317,7 +321,10 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 </details>
 
-<b>Day --: May 9, 2017 --> May 11, 2017</b>: Finals at School.
+<details>
+<summary><b>Day --: May 9, 2017 --> May 11, 2017</b>:</summary> Finals at School.
+
+</details>
 
 <details>
 <summary><b>Day 35: May 12, 2017</b></summary>
