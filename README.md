@@ -10,7 +10,7 @@ Note: While doing this challenge, my goal is to learn another program langauge s
 - - - -  
 ### *Java*
 <details>
-<summary><b><b>Day 0: March 13, 2017</b></summary>
+<summary><b>Day 0: March 13, 2017</b></summary>
 
 1. [1_simpleSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/1_simpleSum.java): A simple program that takes the sum based on user input, 0 will stop it from adding numbers.
 
@@ -91,7 +91,7 @@ Note: While doing this challenge, my goal is to learn another program langauge s
 
 1. [14_CutTheSticks](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/14_CutTheSticks.java):
 
-You are given <b>N<b> sticks, where the *length* of each stick is a positive integer. A cut operation is performed on the sticks such that all of them are reduced by the length of the smallest stick.
+You are given <b>N</b> sticks, where the *length* of each stick is a positive integer. A cut operation is performed on the sticks such that all of them are reduced by the length of the smallest stick.
 
 </details>
 
@@ -102,15 +102,15 @@ You are given <b>N<b> sticks, where the *length* of each stick is a positive int
 
 HackerLand University has the following grading policy:
 
-* Every student receives a *grade* in the inclusive range from <b>0<b> to <b>100<b>
-* Any *grade* less than <b>40<b> is a failing grade.
+* Every student receives a *grade* in the inclusive range from <b>0</b> to <b>100</b>
+* Any *grade* less than <b>40</b> is a failing grade.
 
 Sam is a professor at the university and likes to round each student's *grade* according to these rules:
 
-* If the difference between the *grade* and the next multiple of <b>5<b> is less than <b>3<b>, round *grade* up to the next multiple of <b>5<b>
-* If the value of *grade* is less than <b>38<b>, no rounding occurs as the result will still be a failing grade.
+* If the difference between the *grade* and the next multiple of <b>5</b> is less than <b>3</b>, round *grade* up to the next multiple of <b>5</b>
+* If the value of *grade* is less than <b>38</b>, no rounding occurs as the result will still be a failing grade.
 
-For example, *grade* = <b>84<b> will be rounded to 85 but *grade* = 29 will not be rounded because the rounding would result in a number that is less than <b>40<b>
+For example, *grade* = <b>84</b> will be rounded to 85 but *grade* = 29 will not be rounded because the rounding would result in a number that is less than <b>40</b>
 
 Given the initial value of *grade* for each of Sam's  students, write code to automate the rounding process. For each , round it according to the rules above and print the result on a new line.
 
@@ -121,11 +121,11 @@ Given the initial value of *grade* for each of Sam's  students, write code to au
 
 1. [16_SuperReducedString](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/16_SuperReducedString.java):
 
-Steve has a string,*s*, consisting of *n* lowercase English alphabetic letters. In one operation, he can delete any *pair* of *adjacent letters* with same value. For example, string `"aabcc"` would become either `"aab"` or `"bcc"` after <b>1<b> operation.
+Steve has a string,*s*, consisting of *n* lowercase English alphabetic letters. In one operation, he can delete any *pair* of *adjacent letters* with same value. For example, string `"aabcc"` would become either `"aab"` or `"bcc"` after <b>1</b> operation.
 
 Steve wants to reduce *s* as much as possible. To do this, he will repeat the above operation as many times as it can be performed. Help Steve out by finding and printing s's non-reducible form!
 
-<b>Note:<b> If the final string is empty, print `Empty String`. 
+<b>Note:</b> If the final string is empty, print `Empty String`. 
 
 </details>
 
@@ -146,24 +146,27 @@ Steve wants to reduce *s* as much as possible. To do this, he will repeat the ab
 </details>
 
 <details>
-<summary><b>Day 15: March 28, 2017<b>*</summary>
+<summary><b>Day 15: March 28, 2017</b>*</summary>
 
 1. [19_HackerrankInAString.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/19_HackerrankInAString.java): Given a string, print `YES` if the string contains 'hackerrank', else print `NO`.
 
 </details>
 
 <details>
-<summary><b>Day 16: March 29. 2017<b>*</summary>
+<summary><b>Day 16: March 29. 2017</b>*</summary>
 
 1. [20_Pangrams.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/20_Pangrams.java): Given a sentence, check if it is a Pangram (using every letter in the alphabet). If it does, print `pangram` else print `not pangram`.
 
 </details>
 
-<b>Day --: March 30,2017<b>*
-Midterm Studying, did not do daily algorithm due to studying. 
+<details>
+<summary><b>Day --: March 30,2017</b>*</summary>
+
+Midterm Studying, did not do daily algorithm due to studying.
+</details>
 
 <details>
-<summary><b>Day 17: March 31, 2017<b>*</summary>
+<summary><b>Day 17: March 31, 2017</b>*</summary>
 
 1. [21_WeightedUniformString.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/21_WeightedUniformString.java)
 
@@ -172,7 +175,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 18: April 1, 2017<b></summary>
+<summary><b>Day 18: April 1, 2017</b></summary>
 
 1. [22_FunnyString.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/22_FunnyString.java)
 ![](promptScreenshots/day18Prompt.png)
@@ -180,7 +183,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 19: April 2, 2017<b></summary>
+<summary><b>Day 19: April 2, 2017</b></summary>
 
 1. [23_Gemstone.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/23_Gemstone.java)
 ![](promptScreenshots/day19Prompt.png)
@@ -188,7 +191,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 20: April 3, 2017<b></summary>
+<summary><b>Day 20: April 3, 2017</b></summary>
 
 1. [24_AlternatingCharacters.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/24_AlternatingCharacters.java): Given a string, find out the number of deletions required to make the letters in the string consecutive.
 
@@ -197,14 +200,14 @@ Midterm Studying, did not do daily algorithm due to studying.
 ### *Python*
 
 <details>
-<summary><b>Day 21: April 4, 2017<b>*</summary>
+<summary><b>Day 21: April 4, 2017</b>*</summary>
 
 1. [25_BeautifulBinary.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/25_BeautifulBinary.py): Given a binary string, you need to make it to a beautiful string. To be considered a beautiful, you cannot have `010`. You are allowed to switch the 0s and 1s to make it a beautiful string. Find the minimum steps it would take to do so.  
 
 </details>
 
 <details>
-<summary><b>Day 22: April 5, 2017<b>*</summary>
+<summary><b>Day 22: April 5, 2017</b>*</summary>
 
 1. [26_BreakingTheRecords.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/26_BreakingTheRecords.py)
 ![](promptScreenshots/day22Prompt.png)
@@ -212,7 +215,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 23: April 6, 2017<b>*</summary>
+<summary><b>Day 23: April 6, 2017</b>*</summary>
 
 1. [27_BirthdayChocolate.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/27_BirthdayChocolate.py)
 ![](promptScreenshots/day23Prompt.png)
@@ -220,24 +223,24 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 24: April 7, 2017<b>*</summary>
+<summary><b>Day 24: April 7, 2017</b>*</summary>
 
 1. [28_DivisibleSumPairs.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/28_DivisibleSumPairs.py)
 ![](promptScreenshots/day24Prompt.png)
 
 </details>
 
-<b>Day --: April 8, 2017 --> April 9, 2017<b>
+<b>Day --: April 8, 2017 --> April 9, 2017</b>
 
 <details>
-<summary><b>Day 25: April 10, 2017<b>*</summary>
+<summary><b>Day 25: April 10, 2017</b>*</summary>
 
 1. [29_SeperateTheStrings.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/29_SeperateTheStrings.py)
 
 </details>
 
 <details>
-<summary><b>Day 26: April 11, 2017<b>*</summary>
+<summary><b>Day 26: April 11, 2017</b>*</summary>
 
 1. [30_BinaryNumbers.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/30_BinaryNumbers.py)
 
@@ -245,10 +248,12 @@ Midterm Studying, did not do daily algorithm due to studying.
 
 </details>
 
-<b>Day --: April 12, 2017 --> April 17, 2017<b>: Working on Job Interviews and Coding Challenges 
+<details>
+<summary><b>Day --: April 12, 2017 --> April 17, 2017</b>:</summary> Working on Job Interviews and Coding Challenges 
+</details>
 
 <details>
-<summary><b>Day 27: April 18, 2017<b></summary>
+<summary><b>Day 27: April 18, 2017</b></summary>
 
 1. [31_2DArray.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/31_2DArray.py): 
 
@@ -257,21 +262,21 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 28: April 19, 2017<b></summary>
+<summary><b>Day 28: April 19, 2017</b></summary>
 
 1. [32_BirthdayCakeCandles.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/32_BirthdayCakeCandles.py): Given an input of number of candles and an array of candles. Return the number of candles a child can blow if she can only blow the tallest ones.
 
 </details>
 
 <details>
-<summary><b>Day 29: April 20, 2017<b></summary>
+<summary><b>Day 29: April 20, 2017</b></summary>
 
 1. [33_Inheritance.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/33_Inheritance.py): Given two class, *Person* and *Student*, *Person* is the base class and *Student* is the derived class. Student inherits all properties of Person. Return the char grade with a calculate method. 
 
 </details>
 
 <details>
-<summary><b>Day 30: April 21, 2017<b></summary>
+<summary><b>Day 30: April 21, 2017</b></summary>
 
 1. [34_AbstractClasses.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/34_AbstractClasses.py): 
 
@@ -280,56 +285,56 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 31: April 22, 2017<b></summary>
+<summary><b>Day 31: April 22, 2017</b></summary>
 
 1. [35_BigSorting.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/35_BigSorting.py):Consider an array of numeric strings, *unsorted* , where each string is a positive number with anywhere from 1 to 10^6 digits. Sort the array's elements in non-decreasing (i.e., ascending) order of their real-world integer values and print each element of the sorted array on a new line.
 
 </details>
 
 <details>
-<summary><b>Day 32: April 23, 2017<b></summary>
+<summary><b>Day 32: April 23, 2017</b></summary>
 
 1. [36_TheLoveLetterMystery.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/)
 ![](promptScreenshots/day32Prompt.png)
 
 </details>
 
-<b>Day --: April 24, 2017 --> April 27, 2017<b>
+<b>Day --: April 24, 2017 --> April 27, 2017</b>
 
 <details>
-<summary><b>Day 33: April 28, 2017<b></summary>
+<summary><b>Day 33: April 28, 2017</b></summary>
 
 1. [37_bon-appetit.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/37_bon-appetit.py): Given a list of ordered number, and an item that was not eaten. Calculate if the bill was seperated correctly. [Detailed Prompt Here](http://bit.ly/day33prompt)
 
 </details>
 
-<b>Day --: April 29, 2017 --> May 7, 2017<b>: Working on prepartion of Finals, and Job Interviews + Coding Challenges 
+<b>Day --: April 29, 2017 --> May 7, 2017</b>: Working on prepartion of Finals, and Job Interviews + Coding Challenges 
 
 <details>
-<summary><b>Day 34: May 8, 2017<b></summary>
+<summary><b>Day 34: May 8, 2017</b></summary>
 
 1. [38_Kangaroo.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/38_Kangaroo.py): There are two kangaroos on an x-axis ready to jump in the positive direction (i.e, toward positive infinity). The first kangaroo starts at location `X1` and moves at a rate of `V1` meters per jump. The second kangaroo starts at location `X2` and moves at a rate of  `V2` meters per jump. Given the starting locations and movement rates for each kangaroo, can you determine if they'll ever land at the same location at the same time?
 
 </details>
 
-<b>Day --: May 9, 2017 --> May 11, 2017<b>: Finals at School.
+<b>Day --: May 9, 2017 --> May 11, 2017</b>: Finals at School.
 
 <details>
-<summary><b>Day 35: May 12, 2017<b></summary>
+<summary><b>Day 35: May 12, 2017</b></summary>
 
 1. [39_InsertionSort1.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/39_InsertionSort1.py): Given`e`, the rightmost number in the list, insert it into the list. (`1,2,4,3` --> `1,2,3,4`)
 
 </details>
 
 <details>
-<summary><b>Day 36: May 13, 2017<b></summary>
+<summary><b>Day 36: May 13, 2017</b></summary>
 
 1. [40_InsertionSort2.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/40_InsertionSort2.py): Adding on to previous Insertion sort, now sort an unsorted list. (`2,4,3,1` --> `1,2,3,4`)
 
 </details>
 
 <details>
-<summary><b>Day 37: May 14, 2017<b></summary>
+<summary><b>Day 37: May 14, 2017</b></summary>
 
 1. [41_DayOfTheProgrammer.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/41_DayOfTheProgrammer.py)
 
@@ -338,7 +343,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 38: May 15, 2017<b></summary>
+<summary><b>Day 38: May 15, 2017</b></summary>
 
 1. [42_marcsCakeWalk.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/42_marcsCakeWalk.py)
 ![](promptScreenshots/day38Prompt.png)
@@ -346,7 +351,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 39: May 16, 2017<b></summary>
+<summary><b>Day 39: May 16, 2017</b></summary>
 
 1. [43_IceCreamParlor.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/43_IceCreamParlor.py)
 ![](promptScreenshots/day39Prompt.png)
@@ -354,7 +359,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 40: May 17, 2017<b></summary>
+<summary><b>Day 40: May 17, 2017</b></summary>
 
 1. [44_QuickSort.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/44_QuickSort.py): 
 
@@ -365,7 +370,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 ### *Javascript*
 
 <details>
-<summary><b>Day 41: May 18, 2017<b>*</summary>
+<summary><b>Day 41: May 18, 2017</b>*</summary>
 
 1. [45_SockMerchant.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/45_SockMerchant.js): 
 
@@ -374,7 +379,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 42: May 19, 2017<b></summary>
+<summary><b>Day 42: May 19, 2017</b></summary>
 
 1. [46_QuickSort2.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/46_QuickSort2.js): 
 
@@ -383,7 +388,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 43: May 20. 2017<b>*</summary>
+<summary><b>Day 43: May 20. 2017</b>*</summary>
 
 1. [47_DesignerPDFView.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/47_DesignerPDFView.js):
 
@@ -392,7 +397,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 44: May 21, 2017<b>*</summary>
+<summary><b>Day 44: May 21, 2017</b>*</summary>
 
 1. [48_StringConstruction.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/48_StringConstruction.js)
 
@@ -401,7 +406,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 45: May 22, 2017<b>*</summary>
+<summary><b>Day 45: May 22, 2017</b>*</summary>
 
 1. [49_MigratoryBirds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/49_MigratoryBirds.js)
 
@@ -410,7 +415,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 46: May 23, 2017<b></summary>
+<summary><b>Day 46: May 23, 2017</b></summary>
 
 1. [50_JumpingOnTheClouds.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/50_JumpingOnTheClouds.js)
 
@@ -419,7 +424,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 47: May 24, 2017<b></summary>
+<summary><b>Day 47: May 24, 2017</b></summary>
 
 1. [51_Anagram.js](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/51_Anagram.js) 
 
@@ -428,7 +433,7 @@ Midterm Studying, did not do daily algorithm due to studying.
 </details>
 
 <details>
-<summary><b>Day 48 - 51: May to June<b></summary>
+<summary><b>Day 48 - 51: May to June</b></summary>
 
 Algorithms 52 - 55: 
 
@@ -442,7 +447,7 @@ Algorithms 52 - 55:
 ### *Python*
 
 <details>
-<summary><b>Day 52: December 23, 2017<b></summary>
+<summary><b>Day 52: December 23, 2017</b></summary>
 
 1. [56_CountingSort1.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/56_CountingSort1.py)
 
@@ -452,7 +457,7 @@ Algorithms 52 - 55:
 </details>
 
 <details>
-<summary><b>Day 53: December 25, 2017<b></summary>
+<summary><b>Day 53: December 25, 2017</b></summary>
 
 1. [57_apple_and_orange.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/57_apple_and_orange.py)
 
@@ -461,14 +466,14 @@ Algorithms 52 - 55:
 </details>
 
 <details>
-<summary><b>Day 54: January 1st, 2018<b></summary>
+<summary><b>Day 54: January 1st, 2018</b></summary>
 
 1. [58_CountingSort2.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/58_CountingSort2.py): Given an unsorted list of integers, output the integers in order.
 
 </details>
 
 <details>
-<summary><b>Day 55: March 30th, 2018<b></summary>
+<summary><b>Day 55: March 30th, 2018</b></summary>
 
 1. [59_GameOfThrones.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/59_GameOfThrones.py)
 
