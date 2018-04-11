@@ -10,7 +10,7 @@ Note: While doing this challenge, my goal is to learn another program langauge s
 - - - -  
 ### *Java*
 <details>
-<summary>** Day 0: March 13, 2017 **</summary>
+<summary><b>Day 0: March 13, 2017</b></summary>
 
 1. [1_simpleSum](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/1_simpleSum.java): A simple program that takes the sum based on user input, 0 will stop it from adding numbers.
 
