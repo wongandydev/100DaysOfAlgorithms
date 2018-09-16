@@ -459,7 +459,7 @@ Algorithms 52 - 55:
 1. [56_CountingSort1.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/56_CountingSort1.py)
 
 
-![](promptScreenshots/day56Prompt.png)
+![](promptScreenshots/day52Prompt.png)
 
 </details>
 
@@ -468,7 +468,7 @@ Algorithms 52 - 55:
 
 1. [57_apple_and_orange.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/57_apple_and_orange.py)
 
-![](promptScreenshots/day57Prompt.png)
+![](promptScreenshots/day53Prompt.png)
 
 </details>
 
@@ -484,6 +484,16 @@ Algorithms 52 - 55:
 
 1. [59_GameOfThrones.py](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/59_GameOfThrones.py)
 
-![](promptScreenshots/day59Prompt.png)
+![](promptScreenshots/day55Prompt.png)
+
+</details>
+
+### *Java*
+<details>
+<summary><b>Day 56: Sept 15th, 2018</b></summary>
+
+1. [61_repeated-string.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/61_repeated-string.java)
+
+![](promptScreenshots/day56Prompt.png)
 
 </details>
