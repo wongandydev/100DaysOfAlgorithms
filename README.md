@@ -496,8 +496,6 @@ Algorithms 52 - 55:
 
 1. [60_ShuffleDeckOfCards.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/60_ShuffleDeckOfCards.java)
 
-![](promptScreenshots/day57Prompt.png)
-
 </details>
 
 <details>
