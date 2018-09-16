@@ -488,12 +488,23 @@ Algorithms 52 - 55:
 
 </details>
 
+
+
 ### *Java*
 <details>
-<summary><b>Day 56: Sept 15th, 2018</b></summary>
+<summary><b>Day 56: April 29th, 2018</b></summary>
+
+1. [60_ShuffleDeckOfCards.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/60_ShuffleDeckOfCards.java)
+
+![](promptScreenshots/day57Prompt.png)
+
+</details>
+
+<details>
+<summary><b>Day 57: Sept 15th, 2018</b></summary>
 
 1. [61_repeated-string.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/61_repeated-string.java)
 
-![](promptScreenshots/day56Prompt.png)
+![](promptScreenshots/day57Prompt.png)
 
 </details>
