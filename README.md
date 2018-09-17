@@ -506,3 +506,12 @@ Algorithms 52 - 55:
 ![](promptScreenshots/day57Prompt.png)
 
 </details>
+
+<details>
+<summary><b>Day 58: Sept 17th, 2018</b></summary>
+
+1. [62_2DArray-DS.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/62_2DArray-DS.java)
+
+![](promptScreenshots/day58Prompt.png)
+
+</details>
