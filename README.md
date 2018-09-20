@@ -515,3 +515,12 @@ Algorithms 52 - 55:
 ![](promptScreenshots/day58Prompt.png)
 
 </details>
+
+<details>
+<summary><b>Day 59: Sept 19th, 2018</b></summary>
+
+1. [63_Arrays-Left_Rotation.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/63_Arrays-Left_Rotation.java)
+
+![](promptScreenshots/day59Prompt.png)
+
+</details>
