@@ -524,3 +524,12 @@ Algorithms 52 - 55:
 ![](promptScreenshots/day59Prompt.png)
 
 </details>
+
+<details>
+<summary><b>Day 60: Sept 24th, 2018</b></summary>
+
+1. [64_NewYearsChaos.java](https://github.com/wongandydev/100DaysOfAlgorithms/blob/master/Algorithms/64_NewYearsChaos.java)
+
+![](promptScreenshots/day60Prompt.png)
+
+</details>
